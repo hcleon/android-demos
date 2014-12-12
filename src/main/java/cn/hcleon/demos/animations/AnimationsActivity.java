@@ -1,13 +1,15 @@
-package animations.demo.hcleon.cn.animations;
+package cn.hcleon.demos.animations;
 
 import android.app.AlertDialog;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import cn.hcleon.demos.R;
 
-public class MainActivity extends ActionBarActivity {
+
+public class AnimationsActivity extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
